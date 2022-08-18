@@ -1,5 +1,5 @@
-# Fcae-Regognition-attendance-System
-face recognition attendance based project using opencV and Cnn model
+
+face recognition based attendance project using opencV and Cnn model
 
 install Opencv-python 
 pip install opencv-python
